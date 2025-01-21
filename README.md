@@ -12,8 +12,6 @@ I am a Software Development Engineer (SDE) at Tata Technologies.<br><br>I am Pro
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Digvijay-L&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Digvijay-L&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Digvijay-L&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Digvijay-L&icon=0&color=0)](https://visitcount.itsvg.in)
